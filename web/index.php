@@ -1,21 +1,14 @@
 <?php
-require_once('config/function.php');
-$articles = getArticles();
-?>
+require_once( "..\\lib\\entity\\Article.php" );
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Netcoblog </title>
-</head>
-<body>
-   <h1>Articles: </h1>
-   <?php foreach($articles as $article): ?>
-   <h2><?= $article->title ?></h2>
-   <time><?=$article->date ?></time>
-   <br /> <br />
-   <a href="articles.php?id=<?= $article->id ?>">Lire la suite</a>
-   <?php endforeach; ?> 
-  </body>
-</html>
+
+$article = new Article;
+
+
+
+
+var_dump( $article);
+
+$article->houdasettitre("mon nouveau titre",1);
+var_dump( $article);
+?>
