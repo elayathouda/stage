@@ -1,4 +1,5 @@
 <?php
-$bdd = new PDO('mysql:host=localhost;dbname=miniblog','root', '' );
-//$bdd->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNINIG);
-?>
+define("BDD-MYSQL-SERVEUR", "localhost");
+define("BDD-MYSQL-BASE", "base-netcole");
+define("BDD-MYSQL-USER", "root");
+define("BDD-MYSQL-MDP", "");
