@@ -119,9 +119,9 @@ body{
     padding: 2em 10em 2em 10em;
 }
 
-.formule {
-    
+.formule {    
     padding: 0;
+  
    }
 
 
@@ -161,7 +161,9 @@ body{
     font-size: 2em;
 }
 .formule .titre p{
-    color: white;   
+    color: white;
+    font-size: 0.5em;
+    
 }
 
 .formule1 {
@@ -201,7 +203,9 @@ body{
 .formule .description {
     padding: 2em;
     text-align: center;
-    height: 13em;
+    height: 10em;
+    max-height: 10em;
+    overflow: hidden;
 }
 
 .formule .description p {
@@ -209,9 +213,10 @@ body{
 }
 .bouton {
     height: 5em;
+    padding-top: 1em;
 }
-.bouton .btn-lg {
-    margin-left: 4em;
+.bouton .bouton-centre {
+    text-align:center;
   
 }
 

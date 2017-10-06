@@ -4,7 +4,7 @@
     
 class Commentaire
 {
-    private $_Comment;
+    private $_comment;
     private $_datecomment;
     
     
@@ -26,7 +26,8 @@ class Commentaire
     {
         return $this->_datecomment;
     }
-    public function setDatecomment($comment)
+    public function setDatecomment($datecomment)
     {
         $this->_datecomment = $datecomment;
     }
+}
