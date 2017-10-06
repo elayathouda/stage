@@ -1,0 +1,243 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+/*
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+*/
+
+/* HTML5 display-role reset for older browsers */
+/*
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+*/
+
+
+/*
+    CSS du projet
+*/
+
+@charset"UTF-8";
+/* font-family: */
+
+@font-face{
+font-family:'open sans';
+    src:'font/open sans.ttf'
+}
+body,html {
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'open san', sans-serif;
+}
+
+
+/**
+    bannière
+**/
+.banner img {
+    width: 100%;
+    height: 450px;
+}
+
+
+/**
+   section  = menu 
+**/
+
+
+/* header*/
+
+}
+
+.bg-faded {
+    background-color: #349BDB;
+   
+    
+}
+
+.navbar-toggler {
+    background-color: #b41d84;
+}
+
+
+
+
+
+
+
+
+/*** 
+    Section = formules 
+***/
+
+.formules .row {
+    margin: auto;
+    display: flex;
+    align-items: flex-end;
+    padding: 2em 10em 2em 10em;
+}
+
+.formule {
+    
+    padding: 0;
+   }
+
+
+.formule .btn-sample {
+    background-color: royalblue;
+}
+
+.formule .prix {
+    padding: 0;
+    font-size: 3em;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+
+}
+
+.formule .prix span {
+    font-weight: bold;
+    color: white;
+}
+
+.formule .mois {
+    padding: 0;
+    text-align: center;
+   color: white;
+    height: 2em
+}
+
+.formule .titre {
+    font-weight: bold;
+    text-align: center;
+    background-color: #46A6F7;
+    height: 3em;
+   padding: 1em;
+    font-size: 2em;
+}
+.formule .titre p{
+    color: white;   
+}
+
+.formule1 {
+    background: #b41d84;
+}
+.formule1 .description {
+    background-color: #b41d84;
+}
+.formule1 .bouton {
+    background-color: #b41d84;
+}
+
+.formule2 {
+    background: #F59B24;
+}
+.formule2 .description {
+    background-color: #F59B24;
+}
+.formule2 .bouton {
+    background-color: #F59B24;
+}
+.formule2 .prix {
+    
+    height: 2.5em;
+}
+
+.formule3 {
+    background-color: #8ab723;
+}
+.formule3 .description {
+    background-color: #8ab723;
+}
+.formule3 .bouton {
+    background-color: #8ab723;
+}
+
+.formule .description {
+    padding: 2em;
+    text-align: center;
+    height: 13em;
+}
+
+.formule .description p {
+    color: white;
+}
+.bouton {
+    height: 5em;
+}
+.bouton .btn-lg {
+    margin-left: 4em;
+  
+}
+
+/*** 
+    nous 
+***/
+.somme-nous {
+    margin-top: 3em;
+    height: 10pm;
+}
+.qui-netcole h2, h3{
+    color: #b41d84;
+    margin-bottom: 1em;
+    
+}
+.somme-nous .pre-netcole {
+    background-color: #46A6F7;
+    width: 100%;
+    
+    padding: 2em 0em 2em 0em;
+}
+.pre-netcole p {
+    padding: 2em 2em 0em 2em;
+    color: white;
+}
+
+.pre-netcole h2 {
+    color: white;
+}
