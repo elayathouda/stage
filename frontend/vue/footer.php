@@ -1,5 +1,6 @@
 
     <!--footer-->
+<<<<<<< HEAD
        
       <footer>
        <div class="container">
@@ -89,6 +90,13 @@
     </footer>
        
        
+=======
+    <section class="footer">
+       <p>le footer :) :) :) :) :) :) </p>
+        
+    </section>
+    
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
         <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/tether.min.js"></script>
     <script src="js/bootstrap.min.js"></script>

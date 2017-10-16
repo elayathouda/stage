@@ -3,7 +3,11 @@
       <div class="ban">
         <img src="images/ban.jpg" alt="baniere netcole" />
        </div>
+<<<<<<< HEAD
            <!--          
+=======
+                     
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
           <div class="inner-banner">            
               <h1>Le <span>soutien scolaire</span> pour tous!</h1>
               <h3>A partir de 2 euros par mois.</h3>
@@ -11,11 +15,16 @@
           </div>
           
    </section> 
+<<<<<<< HEAD
    -->
+=======
+   
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
     <!--plaire-->
     <section class="container-fluid plaire">
       
 			<h2>Ce qui va vous plaire</h2>
+<<<<<<< HEAD
          
           
 			  <div class="row">
@@ -27,26 +36,51 @@
             <p class="texte  text-center">
             <strong>Netcole vous propose: </strong>
             <strong> 13400 exercices</strong></p>
+=======
+			  <div class="row">
+    
+   
+      <div class="col-sm-3">
+        <div class=" bloc-bss-1">
+          <div class="icone text-center"><img src=""></div>
+       
+          <p class="texte  text-center"><strong>Site de soutien scolaire</strong> pour s’entraîner sur ordinateur et tablette du CP à la Terminale</p>
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
         </div>
       </div>
       <div class="col-sm-3">
         <div class="bloc-bss-1">
+<<<<<<< HEAD
           <div class="icone text-center"><img src="images/education-nationale.png"></div>
             <p class="texte text-center"><strong>Un programe conforme</strong><strong> à l'ecucation nationale</strong></p>
+=======
+          <div class="icone text-center"><img src=""></div>
+          <p class="texte text-center"><strong>Fiches de révision, exercices interactifs, quiz, et vidéo</strong> pour donner le goût d’apprendre !</p>
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
          
         </div>
       </div>
       <div class="col-sm-3">
         <div class="bloc-bss-1">
+<<<<<<< HEAD
           <div class="icone text-center"><img src="images/competences.png"></div>
             <p class="texte  text-center"><strong>Notre Service est disponible: 24h/24 et 7j/7</strong><strong>avec 1558 Compétances</strong></p>
+=======
+          <div class="icone text-center"><img src=""></div>
+          <p class="texte  text-center"><strong>Service disponible 24h/24 et 7j/7</strong>, avec ou sans connexion Internet</p>
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
           
         </div>
       </div>
       <div class="col-sm-3">
         <div class="bloc-bss-1">
+<<<<<<< HEAD
           <div class="icone text-center"><img src="images/videos.png"></div>
           <p class="texte  text-center"><strong>Netcone a mis a votre disposition: </strong><strong>1710 Vidéos</strong></p>
+=======
+          <div class="icone text-center"><img src=""></div>
+          <p class="texte  text-center"><strong>Conçu par des enseignants</strong> et <strong>conforme aux programmes</strong> de l’Éducation nationale</p>
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
           
         </div>
       </div>
@@ -61,6 +95,10 @@
      
      <section class="container-fluid formules">
            <h2>Nos Formules pour réussir l'école</h2>
+<<<<<<< HEAD
+=======
+          <hr class="separator"> 
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
           
           <div class="row">
            
@@ -153,7 +191,16 @@
               </div>
 
             </article>
+<<<<<<< HEAD
         
+=======
+            
+            
+            
+
+            
+
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
       </div>
         
     </section>
@@ -162,6 +209,7 @@
     <div class="container-fluid somme-nous">
          <div class="qui-netcole">
           <h2>Qui somme nous?</h2>
+<<<<<<< HEAD
           </div>
           
            <!--1ere parite nous-->
@@ -325,12 +373,87 @@
             <div class="cata">
             <h3>Cataloge:</h3>
                <ul>
+=======
+          <h3>Netcole un site d'aide scolaire pédagogique et ludique</h3>
+          </div>
+          
+          <div class="row pre-netcole">
+            <div class="col-xs-12 col-sm-6 somme-nous1">
+              
+              <p>Créer en 2003 par Grima Eric et Dumas Pascal, sont objectid est de proposer un soutien scolaire pour tous, des stages de remise à niveau avec un professeur, un programme quotidien de travail scolaire en lien avec les nouveaux programes de l'éducation nationale. </p>
+              </div>
+          
+           <div class="col-xs-6 col-sm-3 card-deck somme-nous2">
+             <div class="card">
+              <img class="card-img-top" src="#" alt="Card image cap">
+               <div class="card-block">
+              <h4>Grima Eric</h4>
+              <p class="card-text">Enseignant au CNAM depuis 11 ans et webmaster depuis 18 ans.
+                 </div>
+                  <div class="card-footer">
+                  <small class="text-muted">Last updated 3 mins ago</small>
+                   </div>
+               </div>
+            </div> 
+            
+
+            <div class="col-xs-6 col-sm-3 card-deck somme-nous3">
+             <div>
+              <h2>Dumas Pascal</h2>
+              <p>Professeur des écoles depuis plus de 30 ans dans toutes les classes de la maternelle au CM2.</p>
+              </div>
+        
+            </div>
+    
+        </div>
+           <div class="container activite">
+            <div class="row">
+            
+            <article class="col-md-4 col-lg-12 col-xs-12 col-sm-12">
+              <h2>Entrainement personnalisé pour les élèves de primaire:</h2>
+              <div class="ban">
+                <img src="" alt="img1" />
+              </div>
+              
+      
+              <p> Avec Netcole, vos enfants peuvent révisez en ligne le programe scolaire et découvrent de nouvelles compétences adaptées à leur age.</p>
+            </article>
+            
+            <article class="col-md-4 col-lg-12 col-xs-12 col-sm-12">
+              <h2>Netcole s'engage !</h2>
+              
+              <div class="ban">
+                <img src="" alt="img2" />
+              </div>
+                <p> Un apprentissage en ligne par groupe de 5 élèves maximum ,Des élèves d’une même classe du CP à la sixième.Votre enfant travaillera en <a href="#">classe inversée</a>.Il pourra poursuivre son travail de manière autonome à la maison.
+                 <p> Son professeur pourra lui envoyer des missions à faire (Des devoirs).En cas de souci, il pourra écrire/vous pourrez écrire un mail à son professeur.</p>
+                <p>Grâce au suivi scolaire parental, vous pouvez autant que parent suivre sa progressient et sa motivation sur notre site.</p>
+              
+             </article>
+            
+           </div>
+               <button class="btn btn-custom">Je découvre les formules d'abonnement</button>
+           
+           </div>
+    
+          
+    <!--actualites-->
+    <section class="container-fluid actualites">
+        
+    </section>
+    
+    <!--cataloges-->
+    <section class="container-fluid catal">
+       <h2>Cataloge:</h2>
+           <ul>
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
                <li><a href="#">article : 1</a></li>
                <li><a href="#">article : 2</a></li>
                <li><a href="#">article : 3</a></li>
                <li><a href="#">article : 4</a></li>
                <li><a href="#">article : 5</a></li>
                <li><a href="#">article : 6</a></li>
+<<<<<<< HEAD
                <li><a href="#">article : 7</a></li>
                <li><a href="#">article : 8</a></li>
                <li><a href="#">article : 9</a></li>
@@ -446,3 +569,21 @@
         </div>
 
 </section>
+=======
+           </ul>
+        
+    </section>
+    
+    <!--blogs-->
+    <section class="container-fluid blog">
+      <h2>Bloges:</h2>
+       <p>le contenue de deux blogs</p>
+        
+    </section>
+    
+    <!--newsletter-->
+    <section class="container-fluid news">
+
+        
+    </section>
+>>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
