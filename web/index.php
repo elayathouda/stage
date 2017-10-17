@@ -30,7 +30,6 @@ if (!empty($_GET['module'])) {
 
 // Fin de la tamporisation de sortie
 $contenu = ob_get_clean();
-<<<<<<< HEAD
 
 // Début du code HTML
 include '..//frontend//vue//header.php';
@@ -46,36 +45,3 @@ include '..//frontend//vue//footer.php';
 
 
 
-=======
-
-// Début du code HTML
-include '..//frontend//vue//header.php';
-
-echo $contenu;
-
-// Fin du code HTML
-include '..//frontend//vue//footer.php';
-
-
-/*
-    1/ coder la connexion des utilisateurs
-        -> classe <Utilisateur>
-        -> controleurUtilisateur
-        -> modelUtilisateur (entity)
-        -> vueUtilisateur
-    2/ coder la connexion à la base de données
-        -> modelUtilisateur (model)
-    3/ URL rewrite de Apache
-
-
-1       http://www.netcole.fr/offres_list.php
-             |
-            \ /
-        http://www.netcole.fr/index.php?1module=offres&action=liste
-    
-
-?>
-
-
-
->>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5

@@ -12,7 +12,6 @@ class UtilisateurController{
         
         
         // Modele
-<<<<<<< HEAD
         
         $bdd = Acces::getMysqlConnexion();
         
@@ -23,12 +22,6 @@ class UtilisateurController{
          $found = $bdd->tester($utilisateur);
             
 
-=======
-        $bdd = new Acces();
-         $found = $bdd->tester($utilisateur);
-            
-        // SELECT COUNT * FROM utilisateur WHERE login = $utilisateur->getLogin() AND motdepasse = $utlisateur->getMotdepasse();
->>>>>>> 8307c3e622726b330316a9dac3f6b42037addee5
             
         }
     }
